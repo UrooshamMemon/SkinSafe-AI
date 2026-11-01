@@ -1,0 +1,100 @@
+﻿id,inci_name,common_name,also_known_as,category,description,benefits,skin_types,concerns,comedogenic_rating,irritancy,pregnancy_safe,vegan,origin,typical_concentration,ph_range,time_of_use,evidence_level,pairs_well_with,avoid_with,ingredient_name,function1,function2,warning1,warning2,ingredient_origin,ingredient_charge,source_name,source_url,match_status,match_key,reference_number,chemical_name_inn,common_ingredient_name,cas_number,ec_number,product_type,maximum_concentration,other_conditions,conditions_and_warnings,regulation,other_directives_regulations,sccs_opinions,chemical_iupac_name,identified_ingredients,cmr_information,update_date
+,,,,,,,,,,,,,,,,,,,,Arbutin,Miscellaneous,Antioxidant,,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,arbutin,378,4-Hydroxyphenyl-beta-D-glucopyranoside,Arbutin,497-76-7,207-850-3,Face cream,7 %,"Hydroquinone levels shall remain as low as possible in formulations containing alpha-Arbutin and shall not be higher than the unavoidable trace level.
+
+From 1 February 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 November 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market.",,(EU) 2024/996,,"Opinion on beta-Arbutin
+OPINION ON β-arbutin
+Opinion on the safety of alpha- (CAS No. 84380-018, EC No. 617-561-8) and beta-arbutin (CAS No. 497-76-7, EC No. 207-8503) in cosmetic products, preliminary version of 15-16 March 2022, final version of 31 January 2023, SCCS/1642/22",,ARBUTIN,,04/04/2024
+benzoyl-peroxide,Benzoyl Peroxide,Benzoyl Peroxide,"['BP', 'BPO']","['Anti-acne', 'Antibacterial']",A powerful antibacterial that kills acne-causing bacteria and clears inflammatory breakouts.,"['Kills acne bacteria', 'Clears inflammatory acne', 'Reduces whiteheads', 'Prevents resistance']","['oily', 'acne-prone', 'combination']","['Drying and irritating', 'Bleaches fabrics', 'Deactivates if layered with vitamin C or retinol']",0.0,high,caution,yes,synthetic,2.5-10%,,AM/PM,strong,"['Niacinamide', 'Hyaluronic Acid', 'Adapalene']","['Retinol', 'Ascorbic Acid (Vitamin C)', 'Salicylic Acid']",Benzoyl Peroxide,,,,,,,GitHub dataset,https://github.com/bsyilmaz/skincare-ingredients-dataset,github_only,benzoyl peroxide,94,Dibenzoyl peroxide,BENZOYL PEROXIDE,94-36-0,202-327-6,Artificial nail systems,0.7% (after mixing for use),Professional use ,"For professional use only 
+Avoid skin contact
+Read directions for use carefully",(EC) 2009/1223,,"Opinion on The Use of Benzoyl Peroxide (BPO), Hydroquinone (HQ), Hydroquinone methylether (MEHQ) in artificial nail systems",,BENZOYL PEROXIDE,,04/11/2010
+,,,,,,,,,,,,,,,,,,,,Citronellol,Perfum,,Allergen,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,citronellol,86,"Citronellol/ (±) 3,7-Dimethyl-6-octen-1-ol;
+(3R)-3,7-dimethyloct-6-en-1-ol;
+(3S)-3,7-dimethyloct-6-en-1-ol;",Citronellol,106-22-9/ 26489-01-0; 1117-61-9; 7540-51-4,203-375-0/ 247-737-6; 214-250-5; 231-415-7,,,"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds:
+— 0,001 % in leave-on products
+— 0,01 % in rinse-off products.",,(EU) 2023/1545,,,,CITRONELLOL,,11/09/2023
+,,,,,,,,,,,,,,,,,,,,Farnesol,Perfum,,Allergen,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,farnesol,82,"2,6,10-Dodecatrien-1-ol, 3,7,11-trimethyl- 
+",Farnesol,4602-84-0,225-004-1,,,"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products",,(EC) 2009/1223,,"Opinion concerning Essential Oils
+Opinion concerning Fragrance Allergy in Consumers - A Review of the Problem -
+Analysis of the need for appropriate Consumer Information and Identification of Consumer Allergens
+Opinion concerning the Interim Position on Fragrance Allergy
+Memorandum on the SCCNFP Opinion concerning Fragrance Allergy
+Opinion on ""Dermal Sensitization Quantitative Risk Assesment "" (QRA: Citral, farnesol and phenylacetaldehyde)",,FARNESOL,,17/10/2010
+,,,,,,,,,,,,,,,,,,,,Geraniol,Perfum,,Allergen,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,geraniol,78,"2,6-Octadien-1-ol, 3,7-dimethyl-, (2E)- 
+
+",Geraniol,106-24-1,203-377-1,,,"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products",,(EC) 2009/1223,,"Opinion concerning Essential Oils
+Opinion concerning Fragrance Allergy in Consumers - A Review of the Problem -
+Analysis of the need for appropriate Consumer Information and Identification of Consumer Allergens
+Opinion concerning the Interim Position on Fragrance Allergy
+Memorandum on the SCCNFP Opinion concerning Fragrance Allergy",,GERANIOL,,17/10/2010
+,,,,,,,,,,,,,,,,,,,,Glyoxal,Preservative,,Irritant,Allergen,Synthetic,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,glyoxal,194,"Glyoxal
+",GLYOXAL,107-22-2,203-474-9,,100 mg/kg,,,(EC) 2013/344,,Opinion on Glyoxal,,GLYOXAL,Mutagenic Cat. 2(when conc.> or equael 1%),10/02/2015
+,,,,,,,,,,,,,,,,,,,,Hexyl Cinnamal,Perfum,,Allergen,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,hexyl cinnamal,87,2-Benzylideneoctanal,HEXYL CINNAMAL,101-86-0,202-983-3,,,"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products",,(EC) 2009/1223,,"Opinion concerning Essential Oils
+Opinion concerning Fragrance Allergy in Consumers - A Review of the Problem -
+Analysis of the need for appropriate Consumer Information and Identification of Consumer Allergens
+Opinion concerning the Interim Position on Fragrance Allergy
+Memorandum on the SCCNFP Opinion concerning Fragrance Allergy",,HEXYL CINNAMAL,,17/10/2010
+hydroquinone,Hydroquinone,Hydroquinone,['HQ'],['Skin-brightening'],"A potent, regulated skin-lightening agent that strongly inhibits melanin (prescription in many regions).","['Powerful fading of dark spots and melasma', 'Fast visible results']","['normal', 'combination']","['Regulated/banned OTC in EU', 'Irritation and ochronosis risk with overuse', 'Use only under guidance']",0.0,high,avoid,yes,synthetic,2-4%,,PM,strong,['Sunscreen'],"['Benzoyl Peroxide', 'Ascorbic Acid (Vitamin C)']",Hydroquinone,,,,,,,GitHub dataset,https://github.com/bsyilmaz/skincare-ingredients-dataset,github_only,hydroquinone,14,Hydroquinone,HYDROQUINONE,123-31-9,204-617-8,"Artificial nail systems
+","0.02% (after mixing for use)
+",Professional use ,"- For professional use only 
+- Avoid skin contact 
+- Read directions for use carefully
+",(EC) 2013/344,,"Opinion on The Use of Benzoyl Peroxide (BPO), Hydroquinone (HQ), Hydroquinone methylether (MEHQ) in artificial nail systems
+Opinion concerning Hydroquinone (1,4-Dihydroxybenzene) as a Hair Dye Constituent
+Foreseeable use of hair dyes",,"HYDROQUINONE
+1,4-DIHYDROXYBENZENE (HYDROQUINONE), WITH THE EXCEPTION OF ENTRY 14 IN ANNEX III","Carcinogenic Cat. 2()
+Mutagenic Cat. 2()",14/05/2013
+kojic-acid,Kojic Acid,Kojic Acid,['KA'],"['Skin-brightening', 'Antioxidant']",A fungal-derived brightener that blocks melanin formation to fade discoloration.,"['Fades age spots and melasma', 'Brightens', 'Antioxidant', 'Antimicrobial']","['normal', 'combination', 'oily']","['Can sensitize skin', 'Unstable; oxidizes and discolors']",0.0,medium,caution,yes,natural,1-2%,4.0-5.0,AM/PM,moderate,"['Vitamin C', 'Niacinamide', 'Alpha Arbutin']",[],Kojic Acid,Miscellaneous,Antioxidant,Irritant,,Natural Derivative,Non-ionik,GitHub dataset; Indonesian dataset,https://github.com/bsyilmaz/skincare-ingredients-dataset; Kaggle Indonesian ingredient dataset,exact_name_match,kojic acid,375,5-Hydroxy-2-(hydroxymethyl)-4H-pyrane-4-one,Kojic Acid,501-30-4,207-922-4,Face and hand products,1 %,From 1 February 2025 cosmetic products containing that substance and not complying with the conditions shall not be placed on the Union market. From 1 November 2025 cosmetic products containing that substance and not complying with the conditions shall not be made available on the Union market.,,(EU) 2024/996,,"Opinion on Kojic acid
+Opinion on Kojic Acid
+scientific opinion on Kojic acid, preliminary version of 26-27 October 2021, final version of 15-16 March 2022, Corrigendum of 10 June 2022, SCCS/1637/21.",,KOJIC ACID,,04/04/2024
+,,,,,,,,,,,,,,,,,,,,Limonene,Perfum,Solvent,Allergen,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,limonene,88,"1-methyl-4-prop- 1-en-2-yl- cyclohexene; dl-limonene (racemic); Dipentene
+(R)-p- mentha-1,8-diene; (d-limonene);
+(S)-p- mentha-1,8-diene; (l-limonene);",Limonene,138-86-3/ 7705-14-8; 5989-27-5; 5989-54-8,205-341-0/ 231-732-0; 227-813-5; 227-815-6,,,"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products. The peroxide value for each substance shall be less than 20 mmoles/L (This limit applies to the substance and  not to the finished cosmetic product).",,(EU) 2023/1545,,,d-Limonene(4R)-1- Methyl-4-(1-methylethenyl) cyclohexene,"1-METHYL-4-METHYLVINYL-CYCLOHEXENE
+LIMONENE",,11/09/2023
+,,,,,,,,,,,,,,,,,,,,Linalool,Perfum,,Allergen,,Natural Derivative,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,linalool,84,"1,6-Octadien-3-ol, 3,7-dimethyl- 
+",Linalool ,78-70-6 ,201-134-4 ,,,"The presence of the substance must be indicated in the list of ingredients referred to in Article 19(1)g when its concentration exceeds: 
+- 0.001% in leave-on products
+- 0.01% in rinse-off products",,(EC) 2009/1223,,"Opinion concerning Linalool
+Opinion concerning Essential Oils
+Opinion concerning Fragrance Allergy in Consumers - A Review of the Problem -
+Analysis of the need for appropriate Consumer Information and Identification of Consumer Allergens
+Opinion concerning the Interim Position on Fragrance Allergy
+Memorandum on the SCCNFP Opinion concerning Fragrance Allergy","3,7-dimethyl-1,6-octadien-3-ol  
+","LINALOOL
+D-ALLO-OCIMENOL
+L-ALLO-OCIMENOL",,17/10/2010
+,,,,,,,,,,,,,,,,,,,,Pelargonium Graveolens Flower Oil,Perfum,,Allergen,,Natural,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,pelargonium graveolens flower oil,364,Pelargonium graveolens oil,Pelargonium Graveolens Flower Oil,90082-51-2/ 8000-46-2,290-140-0/ -,,,"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.",,(EU) 2023/1545,,,,PELARGONIUM GRAVEOLENS FLOWER OIL,,03/10/2023
+,,,,,,,,,,,,,,,,,,,,Pogostemon Cablin Oil,Perfum,,Allergen,,Natural,Non-ionik,Indonesian dataset,Kaggle Indonesian ingredient dataset,indonesian_only,pogostemon cablin oil,365,Pogostemon cablin oil,Pogostemon Cablin Oil,8014-09-3/ 84238-39-1,-/ 282-493-4,,,"The presence of the substance shall be indicated in the list of ingredients referred to in Article 19(1), point (g), when its concentration exceeds: — 0,001 % in leave-on products — 0,01 % in rinse-off products.",,(EU) 2023/1545,,,,POGOSTEMON CABLIN OIL,,03/10/2023
+salicylic-acid,Salicylic Acid,Salicylic Acid,"['BHA', 'Beta Hydroxy Acid']","['Exfoliant', 'BHA', 'Anti-acne']",An oil-soluble beta-hydroxy acid that penetrates pores to dissolve sebum and dead skin.,"['Unclogs and shrinks pores', 'Reduces blackheads and breakouts', 'Controls oil', 'Anti-inflammatory']","['oily', 'acne-prone', 'combination']","['Can over-dry skin', 'Mild photosensitivity']",0.0,medium,caution,yes,both,0.5-2%,3.0-4.0,AM/PM,strong,"['Niacinamide', 'Hyaluronic Acid', 'Zinc']","['Retinol', 'Ascorbic Acid (Vitamin C)', 'Glycolic Acid', 'Benzoyl Peroxide']",Salicylic Acid,Miscellaneous,,Exfoliating,Irritant,Natural Derivative,Non-ionik,GitHub dataset; Indonesian dataset,https://github.com/bsyilmaz/skincare-ingredients-dataset; Kaggle Indonesian ingredient dataset,exact_name_match,salicylic acid,98,"Benzoic acid, 2-hydroxy-",SALICYLIC ACID,69-72-7,200-712-3,"(a) Rinse-off hair products
+
+(b) Other products except body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant
+
+(c) Body lotion, eye shadow, mascara, eyeliner, lipstick, roll-on deodorant","(a) 3.0%
+
+(b) 2.0%
+
+(c) 0.5%
+","(a) (b) (c)
+
+Not to be used in preparations for children under 3 years of age. Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation. Not to be used in oral products. For purposes other than inhibiting the development of micro-organisms in the product. This purpose has to be apparent from the presentation of the product.
+
+These levels are inclusive of any use of salicylic acid.","(a) (b) (c)
+
+Not to be used for children under 3 years of age*
+
+* Solely for products which might be used for children under 3 years of age.",(EU) 2021/850,,,2-hydroxy benzoic acid ,"SALICYLIC ACID AND ITS SALTS
+SALICYLIC ACID",Reprotoxic Cat. 2(),07/12/2023
+titanium-dioxide,Titanium Dioxide,Titanium Dioxide,"['TiO2', 'Mineral filter']",['UV filter'],"A mineral filter that scatters mainly UVB and shorter UVA rays, often paired with zinc oxide.","['UVB and short UVA protection', 'Gentle', 'Good for sensitive skin', 'Stable']","['sensitive', 'all', 'dry']","['White cast', 'Weaker on long UVA alone']",1.0,low,safe,yes,both,2-25%,,AM,strong,"['Zinc Oxide', 'Antioxidants']",[],Titanium Dioxide,,,,,,,GitHub dataset,https://github.com/bsyilmaz/skincare-ingredients-dataset,github_only,titanium dioxide,321,Titanium dioxide in powder form containing 1 % or more of particles with aerodynamic diameter ≤ 10 μm,TITANIUM DIOXIDE,13463-67-7/ 1317-70-0/ 1317-80-2,236-675-5/ 215-280-1/ 215-282-2,"(a) face  products in  loose powder form
+
+(b) hair aerosol spray pro­ducts
+
+(c) other products","(a) 25 %;
+
+(b) 1,4 % for general consu­mers, and 1.1 % for  pro­fessional use.","a) (b) Only in the pigmentary form
+
+(c) Not to be used in applications that may lead to exposure of the end-user’s lungs by inhalation",,(EU) 2021/850,,Titanium dioxide (TiO2) used in cosmetic products that lead to exposure by inhalation.,Titanium Dioxide,,,23/03/2022

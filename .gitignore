@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Node / Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
